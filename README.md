@@ -1,5 +1,6 @@
-This repository is specialized for data from a previous experiment.
+This repository is specialized for data from a previous experiment performed at Syracuse University. Some of that data is included as an example.
 If you would like to adjust this code for your own data, please contact me at masp01@syr.edu
+Syracuse University BioInspired Institute - https://bioinspired.syr.edu/
 
 Set up supervised biofilm tracing from scratch
 ----------------------------------------------
@@ -70,12 +71,12 @@ Manually changing the boundary
   - Try to break up large changes into a series of small changes
 		
 Saving output
-	- When the boundary for each frame is acceptable, press 's'
-	- A datafile containing pairs of xy coordinates will be saved to the output directory you chose
-	- Automatic versus manually entered points are distinguishable by data precision
-		- Manually entered points will have more precise coordinates
-	- If a frame has output that has already been saved, a warning will appear in the Anaconda Command Prompt
-	- Saving again will replace the old data
+- When the boundary for each frame is acceptable, press 's'
+- A datafile containing pairs of xy coordinates will be saved to the output directory you chose
+- Automatic versus manually entered points are distinguishable by data precision
+  - Manually entered points will have more precise coordinates
+- If a frame has output that has already been saved, a warning will appear in the Anaconda Command Prompt
+- Saving again will replace the old data
 
 Navigation
 - Advance to the next frame by clicking 'Next Frame >'
