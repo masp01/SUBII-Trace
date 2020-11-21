@@ -13,8 +13,8 @@ Install Anaconda (a Python distribution)
 Install prerequisite packages
 - Open the Anaconda Command Prompt
 - Type the following and hit enter for each line:
-`conda install -c conda-forge pims`
-`pip install opencv-contrib-python`
+  - `conda install -c conda-forge pims`
+  - `pip install opencv-contrib-python`
 
 Run the scripts
 - Open the Anaconda Command Prompt
